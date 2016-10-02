@@ -1,2 +1,2 @@
-# MetalMagicians-6982
-Horrible Code, Cancer
+# 6982 MetalMagicians
+Team 6982, Metal Magicians, git repository.
